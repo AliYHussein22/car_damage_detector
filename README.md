@@ -1,5 +1,7 @@
 # CarDamage AI
 
+<img width="500" height="500" alt="A__2_-removebg-preview" src="https://github.com/user-attachments/assets/936a2c7b-0c09-4152-aedd-216e846c86cf" />
+
 A YOLOv8-powered car damage detection app built with Streamlit. Upload a photo or video of a car and get an instant damage report with bounding boxes, damage classification, and an overall severity score.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
