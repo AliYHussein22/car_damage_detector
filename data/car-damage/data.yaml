@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['crack', 'dent', 'glass shatter', 'lamp broken', 'scratch', 'tire flat']
+
+roboflow:
+  workspace: btp-w9pyz
+  project: car-damage-detection-cpccb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/btp-w9pyz/car-damage-detection-cpccb/dataset/1
